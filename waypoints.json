@@ -4,11 +4,6 @@
       "name": "Нарочанская",
       "distanceFromBaseStation": 1,
       "baseStation": "ДС ВЕСНЯНКА"
-    },
-    {
-      "name": "ДС ВЕСНЯНКА",
-      "distanceFromBaseStation": 0,
-      "baseStation": "ДС ВЕСНЯНКА"
     }
   ]
 }
