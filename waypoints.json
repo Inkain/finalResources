@@ -101,7 +101,7 @@
       "baseStation": "ДС ВЕСНЯНКА"
     }
     ],
-    "baseStation": [
+    "BaseStation": [
     {
       "name": "ДС ВЕСНЯНКА",
       "distanceFromBaseStation": 0,
