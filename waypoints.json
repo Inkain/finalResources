@@ -6,7 +6,7 @@
       "baseStation": "ДС ВЕСНЯНКА"
     }
   ],
-  "BaseStation": [
+  "baseStation": [
     {
       "name": "ДС ВЕСНЯНКА",
       "distanceFromBaseStation": 0,
