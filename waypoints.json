@@ -99,7 +99,9 @@
       "name": "Проходная",
       "distanceFromBaseStation": 10,
       "baseStation": "ДС ВЕСНЯНКА"
-    },
+    }
+    ],
+    "baseStation": [
     {
       "name": "ДС ВЕСНЯНКА",
       "distanceFromBaseStation": 0,
